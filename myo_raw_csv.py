@@ -5,8 +5,8 @@
 	Edited by Fernando Cosentino
 		http://www.fernandocosentino.net/pyoconnect
 
-    Re-edited by Arjun S
-
+    	Re-edited by Arjun S
+		https://github.com/arjun921/Myo-Train
 '''
 
 
