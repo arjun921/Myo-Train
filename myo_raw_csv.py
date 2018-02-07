@@ -11,14 +11,13 @@
 
 
 from __future__ import print_function
-import readchar
 import enum
 import re
 import struct
 import sys
 import threading
 import time
-
+import os
 import serial
 from serial.tools.list_ports import comports
 
